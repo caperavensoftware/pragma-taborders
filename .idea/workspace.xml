@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8487a8d-288b-4114-8c9f-55cc294fb2bf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pragma-taborders.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/app.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serviceworker.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/welcome/welcome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/welcome/welcome.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/e2e/index.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/app-tests.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/views/welcome/welcome-tests.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/typings.json" />
     </list>
     <ignored path="pragma-taborders.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -492,12 +464,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476176133725</updated>
-      <workItem from="1476176135006" duration="937000" />
+      <workItem from="1476176135006" duration="959000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1476177091317</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476177091317</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="937000" />
+    <option name="totallyTimeSpent" value="959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
@@ -533,6 +513,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
